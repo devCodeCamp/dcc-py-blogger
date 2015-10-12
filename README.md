@@ -12,18 +12,7 @@ Have a bug or want to add something? Please create an issue or a pull request ri
 https://github.com/devCodeCamp/dcc-py-blogger
 
 
-AUTHORS
--------
-
-**Nick Jaeger**
-
-**Dave**
-
-
 Copyright and License
 ---------------------
 
-The MIT License (MIT)
-Copyright (c) 2015 devCodeCamp
-
-see LICENSE.
+Copyright (c) 2015 devCodeCamp. All rights reserved.
